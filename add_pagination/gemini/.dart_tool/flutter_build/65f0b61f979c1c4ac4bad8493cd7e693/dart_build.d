@@ -1,0 +1,1 @@
+ /Users/janstepien/projects/ai_ide_comparison/add_pagination/gemini/.dart_tool/flutter_build/65f0b61f979c1c4ac4bad8493cd7e693/dart_build_result.json: 

@@ -1,0 +1,30 @@
+{
+    "appTitle": "Movie Browser",
+    "searchHint": "Search...",
+    "error": "Error",
+    "initial": "Initial",
+    "budget": "Budget",
+    "revenue": "Revenue",
+    "shouldWatchToday": "Should I watch it today?",
+    "yes": "Yes!",
+    "no": "No!",
+    "rating": "{rating}%",
+    "ratingWithStar": "{rating} 🌟",
+    "@rating": {
+        "description": "Movie rating percentage",
+        "placeholders": {
+            "rating": {
+                "type": "String"
+            }
+        }
+    },
+    "@ratingWithStar": {
+        "description": "Movie rating with star emoji",
+        "placeholders": {
+            "rating": {
+                "type": "String"
+            }
+        }
+    },
+    "appName": "Movie Browser"
+} 

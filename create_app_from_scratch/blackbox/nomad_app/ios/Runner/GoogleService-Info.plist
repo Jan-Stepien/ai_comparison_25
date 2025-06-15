@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAevAChjRG5QX_sQATdvqamIdHq72sWDbo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>807359023037</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nomad.nomadApp</string>
+	<key>PROJECT_ID</key>
+	<string>blackbox-test-jan</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blackbox-test-jan.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:807359023037:ios:887ffc6f047c0917ff74d4</string>
+</dict>
+</plist>
